@@ -1,0 +1,12 @@
+.imgHolder {
+  position: relative;
+}
+.imgHolder span {
+  position: absolute;
+  bottom: 30px;
+  left: 2px;
+  background-color: black;
+  color: white;
+  padding-left: 15%;
+  width: 50%;
+}
